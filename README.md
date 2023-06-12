@@ -2,6 +2,8 @@
 
 This little code prints out IP information (Location and other information)
 
+[![Watch the video](https://img.youtube.com/vi/MrmE9uiGi54/maxresdefault.jpg)](https://youtu.be/MrmE9uiGi54)
+
 -------------------------------
 
 <br>
